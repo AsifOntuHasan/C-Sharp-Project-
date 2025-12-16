@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\bin\Debug\net8.0-windows\SuperConverter.exe
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\bin\Debug\net8.0-windows\SuperConverter.deps.json
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\bin\Debug\net8.0-windows\SuperConverter.runtimeconfig.json
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\bin\Debug\net8.0-windows\SuperConverter.dll
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\bin\Debug\net8.0-windows\SuperConverter.pdb
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.Form1.resources
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.dll
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\refint\SuperConverter.dll
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.pdb
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\SuperConverter.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeWarriors\SuperConverter\obj\Debug\net8.0-windows\ref\SuperConverter.dll
